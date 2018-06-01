@@ -1,0 +1,68 @@
+C:\Users\VGR_T\AppData\Local\Temporary Projects\CKWO2018\bin\Debug\CKWO2018.exe.config
+C:\Users\VGR_T\AppData\Local\Temporary Projects\CKWO2018\bin\Debug\CKWO2018.exe
+C:\Users\VGR_T\AppData\Local\Temporary Projects\CKWO2018\bin\Debug\CKWO2018.pdb
+C:\Users\VGR_T\AppData\Local\Temporary Projects\CKWO2018\bin\Debug\CKWO2018.xml
+C:\Users\VGR_T\AppData\Local\Temporary Projects\CKWO2018\obj\Debug\CKWO2018.vbprojResolveAssemblyReference.cache
+C:\Users\VGR_T\AppData\Local\Temporary Projects\CKWO2018\obj\Debug\CKWO2018.Resources.resources
+C:\Users\VGR_T\AppData\Local\Temporary Projects\CKWO2018\obj\Debug\CKWO2018.vbproj.GenerateResource.Cache
+C:\Users\VGR_T\AppData\Local\Temporary Projects\CKWO2018\obj\Debug\CKWO2018.exe
+C:\Users\VGR_T\AppData\Local\Temporary Projects\CKWO2018\obj\Debug\CKWO2018.xml
+C:\Users\VGR_T\AppData\Local\Temporary Projects\CKWO2018\obj\Debug\CKWO2018.pdb
+C:\Users\VGR_T\AppData\Local\Temporary Projects\CKWO2018\obj\Debug\CKWO2018.Form1.resources
+C:\Users\VGR_T\Documents\Visual Studio 2017\Projects\CKWO2018\CKWO2018\bin\Debug\CKWO2018.exe.config
+C:\Users\VGR_T\Documents\Visual Studio 2017\Projects\CKWO2018\CKWO2018\bin\Debug\CKWO2018.exe
+C:\Users\VGR_T\Documents\Visual Studio 2017\Projects\CKWO2018\CKWO2018\bin\Debug\CKWO2018.pdb
+C:\Users\VGR_T\Documents\Visual Studio 2017\Projects\CKWO2018\CKWO2018\bin\Debug\CKWO2018.xml
+C:\Users\VGR_T\Documents\Visual Studio 2017\Projects\CKWO2018\CKWO2018\obj\Debug\CKWO2018.vbprojResolveAssemblyReference.cache
+C:\Users\VGR_T\Documents\Visual Studio 2017\Projects\CKWO2018\CKWO2018\obj\Debug\CKWO2018.Form1.resources
+C:\Users\VGR_T\Documents\Visual Studio 2017\Projects\CKWO2018\CKWO2018\obj\Debug\CKWO2018.Resources.resources
+C:\Users\VGR_T\Documents\Visual Studio 2017\Projects\CKWO2018\CKWO2018\obj\Debug\CKWO2018.vbproj.GenerateResource.Cache
+C:\Users\VGR_T\Documents\Visual Studio 2017\Projects\CKWO2018\CKWO2018\obj\Debug\CKWO2018.exe
+C:\Users\VGR_T\Documents\Visual Studio 2017\Projects\CKWO2018\CKWO2018\obj\Debug\CKWO2018.xml
+C:\Users\VGR_T\Documents\Visual Studio 2017\Projects\CKWO2018\CKWO2018\obj\Debug\CKWO2018.pdb
+C:\Users\daniel\source\repos\CKWO2018\CKWO2018\bin\Debug\CKWO2018.exe.config
+C:\Users\daniel\source\repos\CKWO2018\CKWO2018\bin\Debug\CKWO2018.exe
+C:\Users\daniel\source\repos\CKWO2018\CKWO2018\bin\Debug\CKWO2018.pdb
+C:\Users\daniel\source\repos\CKWO2018\CKWO2018\bin\Debug\CKWO2018.xml
+C:\Users\daniel\source\repos\CKWO2018\CKWO2018\obj\Debug\CKWO2018.Form1.resources
+C:\Users\daniel\source\repos\CKWO2018\CKWO2018\obj\Debug\CKWO2018.Resources.resources
+C:\Users\daniel\source\repos\CKWO2018\CKWO2018\obj\Debug\CKWO2018.vbproj.GenerateResource.Cache
+C:\Users\daniel\source\repos\CKWO2018\CKWO2018\obj\Debug\CKWO2018.vbproj.CoreCompileInputs.cache
+C:\Users\daniel\source\repos\CKWO2018\CKWO2018\obj\Debug\CKWO2018.exe
+C:\Users\daniel\source\repos\CKWO2018\CKWO2018\obj\Debug\CKWO2018.xml
+C:\Users\daniel\source\repos\CKWO2018\CKWO2018\obj\Debug\CKWO2018.pdb
+C:\Users\daniel\source\repos\CKWO2018\CKWO2018\obj\Debug\CKWO2018.vbprojResolveAssemblyReference.cache
+C:\Users\VGR_T\Desktop\CKWO2018\CKWO2018\bin\Debug\CKWO2018.exe.config
+C:\Users\VGR_T\Desktop\CKWO2018\CKWO2018\bin\Debug\CKWO2018.exe
+C:\Users\VGR_T\Desktop\CKWO2018\CKWO2018\bin\Debug\CKWO2018.pdb
+C:\Users\VGR_T\Desktop\CKWO2018\CKWO2018\bin\Debug\CKWO2018.xml
+C:\Users\VGR_T\Desktop\CKWO2018\CKWO2018\obj\Debug\CKWO2018.vbprojResolveAssemblyReference.cache
+C:\Users\VGR_T\Desktop\CKWO2018\CKWO2018\obj\Debug\CKWO2018.Form1.resources
+C:\Users\VGR_T\Desktop\CKWO2018\CKWO2018\obj\Debug\CKWO2018.Resources.resources
+C:\Users\VGR_T\Desktop\CKWO2018\CKWO2018\obj\Debug\CKWO2018.vbproj.GenerateResource.Cache
+C:\Users\VGR_T\Desktop\CKWO2018\CKWO2018\obj\Debug\CKWO2018.exe
+C:\Users\VGR_T\Desktop\CKWO2018\CKWO2018\obj\Debug\CKWO2018.xml
+C:\Users\VGR_T\Desktop\CKWO2018\CKWO2018\obj\Debug\CKWO2018.pdb
+C:\Users\daniel\Desktop\CKWO2018\CKWO2018\bin\Debug\CKWO2018.exe.config
+C:\Users\daniel\Desktop\CKWO2018\CKWO2018\bin\Debug\CKWO2018.exe
+C:\Users\daniel\Desktop\CKWO2018\CKWO2018\bin\Debug\CKWO2018.pdb
+C:\Users\daniel\Desktop\CKWO2018\CKWO2018\bin\Debug\CKWO2018.xml
+C:\Users\daniel\Desktop\CKWO2018\CKWO2018\obj\Debug\CKWO2018.Form1.resources
+C:\Users\daniel\Desktop\CKWO2018\CKWO2018\obj\Debug\CKWO2018.Resources.resources
+C:\Users\daniel\Desktop\CKWO2018\CKWO2018\obj\Debug\CKWO2018.vbproj.GenerateResource.Cache
+C:\Users\daniel\Desktop\CKWO2018\CKWO2018\obj\Debug\CKWO2018.vbproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\CKWO2018\CKWO2018\obj\Debug\CKWO2018.exe
+C:\Users\daniel\Desktop\CKWO2018\CKWO2018\obj\Debug\CKWO2018.xml
+C:\Users\daniel\Desktop\CKWO2018\CKWO2018\obj\Debug\CKWO2018.pdb
+C:\Users\daniel\Desktop\CKWO2018\CKWO2018\obj\Debug\CKWO2018.vbprojResolveAssemblyReference.cache
+C:\Users\VGR_T\Desktop\CKWOP-master\CKWO2018\CKWO2018\obj\Debug\CKWO2018.vbprojResolveAssemblyReference.cache
+C:\Users\VGR_T\Desktop\CKWOP-master\CKWO2018\CKWO2018\obj\Debug\CKWO2018.Form1.resources
+C:\Users\VGR_T\Desktop\CKWOP-master\CKWO2018\CKWO2018\obj\Debug\CKWO2018.Resources.resources
+C:\Users\VGR_T\Desktop\CKWOP-master\CKWO2018\CKWO2018\obj\Debug\CKWO2018.vbproj.GenerateResource.Cache
+C:\Users\VGR_T\Desktop\CKWOP-master\CKWO2018\CKWO2018\obj\Debug\CKWO2018.exe
+C:\Users\VGR_T\Desktop\CKWOP-master\CKWO2018\CKWO2018\obj\Debug\CKWO2018.xml
+C:\Users\VGR_T\Desktop\CKWOP-master\CKWO2018\CKWO2018\obj\Debug\CKWO2018.pdb
+C:\Users\VGR_T\Desktop\CKWOP-master\CKWO2018\CKWO2018\bin\Debug\CKWO2018.exe.config
+C:\Users\VGR_T\Desktop\CKWOP-master\CKWO2018\CKWO2018\bin\Debug\CKWO2018.exe
+C:\Users\VGR_T\Desktop\CKWOP-master\CKWO2018\CKWO2018\bin\Debug\CKWO2018.pdb
+C:\Users\VGR_T\Desktop\CKWOP-master\CKWO2018\CKWO2018\bin\Debug\CKWO2018.xml
